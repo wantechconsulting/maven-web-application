@@ -13,7 +13,7 @@ forethen jobs will start coming<%@ page language="java" contentType="text/html; 
 <h1 align="center">We are developing and supporting quality Software Solutions to millions of clients globally.
 	           We are raising millionaires in IT automation.
 	We offer Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.
-	Class33 will start on July 15, 2023. Studies are going great </h1>
+	Class33 will start on July 15, 2023. Studies are going great but am working hard </h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
